@@ -1,4 +1,4 @@
-            - name: Skyline DataMiner Deploy Action
+  - name: Skyline DataMiner Deploy Action
   # You may pin to the exact commit or the version.
   # uses: SkylineCommunications/Skyline-DataMiner-Deploy-Action@a9d8a865261199fb6f16f17e8373b1d3948d0808
   uses: SkylineCommunications/Skyline-DataMiner-Deploy-Action@v2.0.1
